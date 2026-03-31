@@ -3,7 +3,7 @@ Github Modifying
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+I'm+Yashinika;UI%2FUX+Enthusiast;Aspiring+Software+Engineer&center=true&width=500&height=50">
   <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3hybzQxeXlqaDlpcHZpODIxcXZmZmZrcmc5ZnNuZ2xieDQ0cG04MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/92YG8KKSjYhMc/giphy.gif" width="200">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTNqdmp5eWRhbDg4d3Z2OHp0bGVmY2p3am1qYTdpN3Z2bXc4a2pxeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kZqbBT64ECtjy/giphy.gif" width="250">
 </p>
 </p>
 <h1 align="center">Hi 👋, I'm Yashinika</h1>
