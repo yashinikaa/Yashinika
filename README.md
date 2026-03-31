@@ -41,5 +41,10 @@ Github Modifying
 - 🎬 Creative Video Designs  
 
 ---
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yashinika&show_icons=true&theme=rose_pine">
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashinika&layout=compact&theme=rose_pine">
+</p>
 <p align="center">💖 Thanks for visiting my profile 💖</p>
