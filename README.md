@@ -42,4 +42,10 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Yashinika&theme=tokyonight&hide_border=false" />
 </p>
-<p align="center">💖 Thanks for visiting my profile 💖</p>
+<p align="center">
+💫 Always learning, always creating 💫
+</p>
+
+<p align="center">
+💖 Thanks for visiting my profile 💖
+</p>
