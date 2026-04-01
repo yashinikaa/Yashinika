@@ -1,5 +1,3 @@
-# Yashinika
-Github Modifying
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+I'm+Yashinika;UI%2FUX+Enthusiast;Aspiring+Software+Engineer&center=true&width=500&height=50">
   <p align="center">
