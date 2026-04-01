@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+I'm+Yashinika;UI%2FUX+Enthusiast;Aspiring+Software+Engineer&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+I'm+Yashinika;UI%2FUX+Enthusiast;Aspiring+Software+Engineer&center=true&width=500&height=30">
   <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTNqdmp5eWRhbDg4d3Z2OHp0bGVmY2p3am1qYTdpN3Z2bXc4a2pxeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kZqbBT64ECtjy/giphy.gif" width="250">
 </p>
