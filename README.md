@@ -34,9 +34,12 @@
 ---
 
 ### 🌟 My Projects
-- 💻 To-Do App (UI + Code)
-    🔗 Live Demo: https://yashinikaa.github.io/todo-app/
-- 🎨 Poster Designs  
+- ✨ To-Do App (Daily Planner)  
+A simple and interactive task management web app with filtering, editing, and local storage.
+  🔗 Live Demo: https://yashinikaa.github.io/todo-app/
+  
+- 🎨 Poster Designs
+  
 - 🎬 Creative Video Designs  
 
 ---
