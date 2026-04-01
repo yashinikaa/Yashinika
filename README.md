@@ -7,7 +7,7 @@
 <h1 align="center">Hi 👋, I'm Yashinika</h1>
 
 <p align="center">
-💗 Undergraduate | Exploring UI/UX Design & Software Development  
+💗 Undergraduate of USJ | Exploring UI/UX Design & Software Development  
 </p>
 
 <p align="center">
