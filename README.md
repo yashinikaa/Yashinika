@@ -34,7 +34,8 @@
 ---
 
 ### 🌟 My Projects
-- 💻 To-Do App (UI + Code)  
+- 💻 To-Do App (UI + Code)
+    🔗 Live Demo: https://yashinikaa.github.io/todo-app/
 - 🎨 Poster Designs  
 - 🎬 Creative Video Designs  
 
